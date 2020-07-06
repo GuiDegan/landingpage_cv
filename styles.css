@@ -1,0 +1,100 @@
+#html {
+    margin-left: 65px;
+}
+
+.navbar-brand {
+    font-size: 22px;
+    font-family: consolas;
+}
+
+#testebar {
+    width: 1153px;
+    margin-left: 65px;
+}
+
+.img_perfil {
+    border-radius: 100px;
+}
+
+.conjunto_foto {
+    margin-left: 500px;
+    margin-top: 220px;
+    position: absolute;
+}
+
+#texto_perfil {
+    padding-left: 15px;
+    font-family: consolas;
+    font-size: 20px;
+}
+
+.conjunto_backgroudn2 {
+    position: absolute;
+}
+
+.card-body {
+  height: 200px;
+  width: 280px;
+}
+
+#card {
+    margin-left: 100px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+#card2 {
+    margin-left: 450px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+#card3 {
+    margin-left: 800px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+#card4 {
+    margin-left: 270px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+#card5 {
+    margin-left: 630px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+#teste {
+    position: absolute;
+    margin-left: 457px;
+    font-size: 24px;
+}
+
+#testecard {
+    padding-top: 10rem;
+    padding-left: 8rem;
+    width: 1050px;
+}
+
+.imagem_3 {
+    margin-top: -600px;
+}
+
+#teste2 {
+    position: absolute;
+    margin-left: 457px;
+    font-size: 24px;
+    font-family: consolas;
+}
+
+#paragrafo_card {
+    font-family: consolas;
+}
+
+#card_parte3 {
+    text-align: center;
+    width: 925px;
+}
